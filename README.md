@@ -22,7 +22,7 @@
 ### About Me
 
 - 📍 Based in **Montreal, Canada**.
-- 🎓 Pursuing a **Computer Science degree** at **Concordia University**.
+- 🎓
 
   
 ---
