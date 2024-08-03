@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="250"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ahmad-n-539754226/">
+ <!-- <a href="https://www.linkedin.com/in/ahmad-n-539754226/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/ahmad.nabelsii/">
@@ -11,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> --> 
 </div>
-  <img src="https://komarev.com/ghpvc/?username=A-Nabelsi&style=flat-square&color=blue" alt="A-Nabelsi"/>
+  
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
